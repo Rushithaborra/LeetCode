@@ -49,4 +49,16 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1338-reduce-array-size-to-the-half](https://github.com/Rushithaborra/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
