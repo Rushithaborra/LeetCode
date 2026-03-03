@@ -53,12 +53,19 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
