@@ -99,6 +99,7 @@ Progress of my leetcode journey.
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Rushithaborra/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rushithaborra/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rushithaborra/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,4 +116,12 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rushithaborra/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rushithaborra/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rushithaborra/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 <!---LeetCode Topics End-->
