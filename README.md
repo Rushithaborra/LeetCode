@@ -66,6 +66,7 @@ Progress of my leetcode journey.
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/Rushithaborra/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rushithaborra/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Depth-First Search
@@ -77,6 +78,7 @@ Progress of my leetcode journey.
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/Rushithaborra/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rushithaborra/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Binary Tree
@@ -89,6 +91,7 @@ Progress of my leetcode journey.
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0563-binary-tree-tilt](https://github.com/Rushithaborra/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rushithaborra/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Breadth-First Search
