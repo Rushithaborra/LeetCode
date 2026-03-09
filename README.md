@@ -64,6 +64,7 @@ Progress of my leetcode journey.
 | [0110-balanced-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rushithaborra/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Depth-First Search
@@ -73,6 +74,7 @@ Progress of my leetcode journey.
 | [0110-balanced-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rushithaborra/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Binary Tree
@@ -83,6 +85,7 @@ Progress of my leetcode journey.
 | [0110-balanced-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rushithaborra/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Breadth-First Search
@@ -103,6 +106,7 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Rushithaborra/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rushithaborra/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rushithaborra/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Rushithaborra/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -135,5 +139,6 @@ Progress of my leetcode journey.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Rushithaborra/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 <!---LeetCode Topics End-->
