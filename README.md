@@ -68,6 +68,7 @@ Progress of my leetcode journey.
 | [0257-binary-tree-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Rushithaborra/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rushithaborra/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@ Progress of my leetcode journey.
 | [0257-binary-tree-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Rushithaborra/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rushithaborra/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -93,12 +95,14 @@ Progress of my leetcode journey.
 | [0257-binary-tree-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Rushithaborra/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rushithaborra/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
