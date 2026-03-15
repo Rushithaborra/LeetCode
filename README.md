@@ -141,6 +141,7 @@ Progress of my leetcode journey.
 | [0094-binary-tree-inorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0155-min-stack](https://github.com/Rushithaborra/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -208,6 +209,7 @@ Progress of my leetcode journey.
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Rushithaborra/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [1622-fancy-sequence](https://github.com/Rushithaborra/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
