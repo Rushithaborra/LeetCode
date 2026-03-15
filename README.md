@@ -14,6 +14,7 @@ Progress of my leetcode journey.
 | [0704-binary-search](https://github.com/Rushithaborra/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Rushithaborra/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rushithaborra/LeetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Rushithaborra/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Divide and Conquer
@@ -29,6 +30,7 @@ Progress of my leetcode journey.
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Rushithaborra/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rushithaborra/LeetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -52,6 +54,7 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rushithaborra/LeetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +163,7 @@ Progress of my leetcode journey.
 | [0067-add-binary](https://github.com/Rushithaborra/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rushithaborra/LeetCode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0868-binary-gap](https://github.com/Rushithaborra/LeetCode/tree/main/0868-binary-gap/) | Easy |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rushithaborra/LeetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
