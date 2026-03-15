@@ -153,6 +153,7 @@ Progress of my leetcode journey.
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Rushithaborra/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rushithaborra/LeetCode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [1622-fancy-sequence](https://github.com/Rushithaborra/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,4 +197,12 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/Rushithaborra/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/Rushithaborra/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 <!---LeetCode Topics End-->
