@@ -34,6 +34,7 @@ Progress of my leetcode journey.
 | [0191-number-of-1-bits](https://github.com/Rushithaborra/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0912-sort-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1338-reduce-array-size-to-the-half](https://github.com/Rushithaborra/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Rushithaborra/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -102,6 +104,7 @@ Progress of my leetcode journey.
 | [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rushithaborra/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +122,7 @@ Progress of my leetcode journey.
 | [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rushithaborra/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +144,7 @@ Progress of my leetcode journey.
 | [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rushithaborra/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +227,7 @@ Progress of my leetcode journey.
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
