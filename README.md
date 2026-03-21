@@ -277,4 +277,5 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0193-valid-phone-numbers](https://github.com/Rushithaborra/LeetCode/tree/main/0193-valid-phone-numbers/) | Easy |
+| [0195-tenth-line](https://github.com/Rushithaborra/LeetCode/tree/main/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->
