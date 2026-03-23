@@ -253,6 +253,7 @@ Progress of my leetcode journey.
 | ------- | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Rushithaborra/LeetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Rushithaborra/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,6 +283,7 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Rushithaborra/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0206-reverse-linked-list](https://github.com/Rushithaborra/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
