@@ -107,6 +107,7 @@ Progress of my leetcode journey.
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Rushithaborra/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
@@ -126,6 +127,7 @@ Progress of my leetcode journey.
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Rushithaborra/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -147,6 +149,7 @@ Progress of my leetcode journey.
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Rushithaborra/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
@@ -246,6 +249,7 @@ Progress of my leetcode journey.
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
