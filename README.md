@@ -110,6 +110,7 @@ Progress of my leetcode journey.
 | [0257-binary-tree-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Rushithaborra/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -130,6 +131,7 @@ Progress of my leetcode journey.
 | [0257-binary-tree-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Rushithaborra/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rushithaborra/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
@@ -152,6 +154,7 @@ Progress of my leetcode journey.
 | [0257-binary-tree-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Rushithaborra/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -164,6 +167,7 @@ Progress of my leetcode journey.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Binary Search
