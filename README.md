@@ -29,6 +29,7 @@ Progress of my leetcode journey.
 | [2906-construct-product-matrix](https://github.com/Rushithaborra/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Rushithaborra/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Rushithaborra/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Rushithaborra/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Rushithaborra/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Divide and Conquer
@@ -86,6 +87,7 @@ Progress of my leetcode journey.
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/Rushithaborra/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Rushithaborra/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +293,7 @@ Progress of my leetcode journey.
 | [2906-construct-product-matrix](https://github.com/Rushithaborra/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Rushithaborra/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Rushithaborra/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Rushithaborra/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Rushithaborra/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Prefix Sum
@@ -300,6 +303,7 @@ Progress of my leetcode journey.
 | [2906-construct-product-matrix](https://github.com/Rushithaborra/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Rushithaborra/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Rushithaborra/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,6 +322,7 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Rushithaborra/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
