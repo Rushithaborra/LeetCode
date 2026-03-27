@@ -208,6 +208,7 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Rushithaborra/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0089-gray-code](https://github.com/Rushithaborra/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0258-add-digits](https://github.com/Rushithaborra/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rushithaborra/LeetCode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1622-fancy-sequence](https://github.com/Rushithaborra/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
@@ -217,6 +218,7 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Rushithaborra/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0089-gray-code](https://github.com/Rushithaborra/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Rushithaborra/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rushithaborra/LeetCode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0868-binary-gap](https://github.com/Rushithaborra/LeetCode/tree/main/0868-binary-gap/) | Easy |
@@ -254,6 +256,7 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/Rushithaborra/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0089-gray-code](https://github.com/Rushithaborra/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Rushithaborra/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Rushithaborra/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
