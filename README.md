@@ -331,4 +331,8 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Rushithaborra/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/Rushithaborra/LeetCode/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
