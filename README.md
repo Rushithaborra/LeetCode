@@ -30,6 +30,7 @@ Progress of my leetcode journey.
 | [2906-construct-product-matrix](https://github.com/Rushithaborra/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rushithaborra/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Rushithaborra/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3493-properties-graph](https://github.com/Rushithaborra/LeetCode/tree/main/3493-properties-graph/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Rushithaborra/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Rushithaborra/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -92,6 +93,7 @@ Progress of my leetcode journey.
 | [1338-reduce-array-size-to-the-half](https://github.com/Rushithaborra/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Rushithaborra/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Rushithaborra/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3493-properties-graph](https://github.com/Rushithaborra/LeetCode/tree/main/3493-properties-graph/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -144,6 +146,7 @@ Progress of my leetcode journey.
 | [0965-univalued-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rushithaborra/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [3493-properties-graph](https://github.com/Rushithaborra/LeetCode/tree/main/3493-properties-graph/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +182,7 @@ Progress of my leetcode journey.
 | [0617-merge-two-binary-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [3493-properties-graph](https://github.com/Rushithaborra/LeetCode/tree/main/3493-properties-graph/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -347,4 +351,12 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/Rushithaborra/LeetCode/tree/main/0176-second-highest-salary/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3493-properties-graph](https://github.com/Rushithaborra/LeetCode/tree/main/3493-properties-graph/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3493-properties-graph](https://github.com/Rushithaborra/LeetCode/tree/main/3493-properties-graph/) | Medium |
 <!---LeetCode Topics End-->
