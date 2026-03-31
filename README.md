@@ -106,6 +106,7 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -152,6 +153,7 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -221,6 +223,7 @@ Progress of my leetcode journey.
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Rushithaborra/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0089-gray-code](https://github.com/Rushithaborra/LeetCode/tree/main/0089-gray-code/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0258-add-digits](https://github.com/Rushithaborra/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rushithaborra/LeetCode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1622-fancy-sequence](https://github.com/Rushithaborra/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
@@ -258,6 +261,7 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Rushithaborra/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0096-unique-binary-search-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0118-pascals-triangle](https://github.com/Rushithaborra/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Rushithaborra/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rushithaborra/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -276,6 +280,7 @@ Progress of my leetcode journey.
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Rushithaborra/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
