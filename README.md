@@ -237,6 +237,7 @@ Progress of my leetcode journey.
 | [0089-gray-code](https://github.com/Rushithaborra/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0258-add-digits](https://github.com/Rushithaborra/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [0492-construct-the-rectangle](https://github.com/Rushithaborra/LeetCode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rushithaborra/LeetCode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1622-fancy-sequence](https://github.com/Rushithaborra/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rushithaborra/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
