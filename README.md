@@ -154,6 +154,7 @@ Progress of my leetcode journey.
 | [0965-univalued-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rushithaborra/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Rushithaborra/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3493-properties-graph](https://github.com/Rushithaborra/LeetCode/tree/main/3493-properties-graph/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -196,6 +197,7 @@ Progress of my leetcode journey.
 | [0617-merge-two-binary-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/Rushithaborra/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3493-properties-graph](https://github.com/Rushithaborra/LeetCode/tree/main/3493-properties-graph/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -378,10 +380,12 @@ Progress of my leetcode journey.
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Rushithaborra/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3493-properties-graph](https://github.com/Rushithaborra/LeetCode/tree/main/3493-properties-graph/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Rushithaborra/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3493-properties-graph](https://github.com/Rushithaborra/LeetCode/tree/main/3493-properties-graph/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
