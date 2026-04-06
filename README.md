@@ -257,6 +257,7 @@ Progress of my leetcode journey.
 | [0868-binary-gap](https://github.com/Rushithaborra/LeetCode/tree/main/0868-binary-gap/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Rushithaborra/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rushithaborra/LeetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Rushithaborra/LeetCode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
