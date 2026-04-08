@@ -35,6 +35,7 @@ Progress of my leetcode journey.
 | [3548-equal-sum-grid-partition-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Rushithaborra/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Rushithaborra/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Rushithaborra/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ Progress of my leetcode journey.
 | [0654-maximum-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0912-sort-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Rushithaborra/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,6 +267,7 @@ Progress of my leetcode journey.
 | [0258-add-digits](https://github.com/Rushithaborra/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rushithaborra/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rushithaborra/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Rushithaborra/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
