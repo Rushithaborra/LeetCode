@@ -16,6 +16,7 @@ Progress of my leetcode journey.
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0704-binary-search](https://github.com/Rushithaborra/LeetCode/tree/main/0704-binary-search/) | Easy |
+| [0823-binary-trees-with-factors](https://github.com/Rushithaborra/LeetCode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0912-sort-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Rushithaborra/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rushithaborra/LeetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -52,6 +53,7 @@ Progress of my leetcode journey.
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Rushithaborra/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0823-binary-trees-with-factors](https://github.com/Rushithaborra/LeetCode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0912-sort-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Rushithaborra/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rushithaborra/LeetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -92,6 +94,7 @@ Progress of my leetcode journey.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0290-word-pattern](https://github.com/Rushithaborra/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0823-binary-trees-with-factors](https://github.com/Rushithaborra/LeetCode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Rushithaborra/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Rushithaborra/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Rushithaborra/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -285,6 +288,7 @@ Progress of my leetcode journey.
 | [0010-regular-expression-matching](https://github.com/Rushithaborra/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0096-unique-binary-search-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0118-pascals-triangle](https://github.com/Rushithaborra/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
+| [0823-binary-trees-with-factors](https://github.com/Rushithaborra/LeetCode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Rushithaborra/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rushithaborra/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
