@@ -409,6 +409,7 @@ Progress of my leetcode journey.
 | [0180-consecutive-numbers](https://github.com/Rushithaborra/LeetCode/tree/main/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Rushithaborra/LeetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/Rushithaborra/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
+| [0183-customers-who-never-order](https://github.com/Rushithaborra/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/Rushithaborra/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Rushithaborra/LeetCode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 ## Union-Find
