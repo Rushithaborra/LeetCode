@@ -417,6 +417,7 @@ Progress of my leetcode journey.
 | [0182-duplicate-emails](https://github.com/Rushithaborra/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Rushithaborra/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/Rushithaborra/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
+| [1068-product-sales-analysis-i](https://github.com/Rushithaborra/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Rushithaborra/LeetCode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
