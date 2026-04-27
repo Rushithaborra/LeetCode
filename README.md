@@ -15,6 +15,7 @@ Progress of my leetcode journey.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0118-pascals-triangle](https://github.com/Rushithaborra/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
+| [0136-single-number](https://github.com/Rushithaborra/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0704-binary-search](https://github.com/Rushithaborra/LeetCode/tree/main/0704-binary-search/) | Easy |
@@ -279,6 +280,7 @@ Progress of my leetcode journey.
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Rushithaborra/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0089-gray-code](https://github.com/Rushithaborra/LeetCode/tree/main/0089-gray-code/) | Medium |
+| [0136-single-number](https://github.com/Rushithaborra/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Rushithaborra/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rushithaborra/LeetCode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0868-binary-gap](https://github.com/Rushithaborra/LeetCode/tree/main/0868-binary-gap/) | Easy |
