@@ -423,6 +423,7 @@ Progress of my leetcode journey.
 | [0184-department-highest-salary](https://github.com/Rushithaborra/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
 | [0197-rising-temperature](https://github.com/Rushithaborra/LeetCode/tree/main/0197-rising-temperature/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Rushithaborra/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1075-project-employees-i](https://github.com/Rushithaborra/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Rushithaborra/LeetCode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
