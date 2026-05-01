@@ -422,6 +422,7 @@ Progress of my leetcode journey.
 | [0183-customers-who-never-order](https://github.com/Rushithaborra/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/Rushithaborra/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
 | [0197-rising-temperature](https://github.com/Rushithaborra/LeetCode/tree/main/0197-rising-temperature/) | Easy |
+| [0585-investments-in-2016](https://github.com/Rushithaborra/LeetCode/tree/main/0585-investments-in-2016/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Rushithaborra/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/Rushithaborra/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Rushithaborra/LeetCode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
