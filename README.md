@@ -396,6 +396,7 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0193-valid-phone-numbers](https://github.com/Rushithaborra/LeetCode/tree/main/0193-valid-phone-numbers/) | Easy |
+| [0194-transpose-file](https://github.com/Rushithaborra/LeetCode/tree/main/0194-transpose-file/) | Medium |
 | [0195-tenth-line](https://github.com/Rushithaborra/LeetCode/tree/main/0195-tenth-line/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
