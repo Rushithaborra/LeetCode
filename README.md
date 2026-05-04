@@ -425,6 +425,7 @@ Progress of my leetcode journey.
 | [0184-department-highest-salary](https://github.com/Rushithaborra/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
 | [0197-rising-temperature](https://github.com/Rushithaborra/LeetCode/tree/main/0197-rising-temperature/) | Easy |
 | [0585-investments-in-2016](https://github.com/Rushithaborra/LeetCode/tree/main/0585-investments-in-2016/) | Medium |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Rushithaborra/LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/Rushithaborra/LeetCode/tree/main/0595-big-countries/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Rushithaborra/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/Rushithaborra/LeetCode/tree/main/1075-project-employees-i/) | Easy |
