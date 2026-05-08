@@ -15,6 +15,7 @@ Progress of my leetcode journey.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0118-pascals-triangle](https://github.com/Rushithaborra/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
+| [0120-triangle](https://github.com/Rushithaborra/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0136-single-number](https://github.com/Rushithaborra/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -315,6 +316,7 @@ Progress of my leetcode journey.
 | [0010-regular-expression-matching](https://github.com/Rushithaborra/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0096-unique-binary-search-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0118-pascals-triangle](https://github.com/Rushithaborra/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
+| [0120-triangle](https://github.com/Rushithaborra/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/Rushithaborra/LeetCode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Rushithaborra/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
