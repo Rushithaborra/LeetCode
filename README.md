@@ -7,6 +7,7 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rushithaborra/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0039-combination-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Rushithaborra/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0057-insert-interval](https://github.com/Rushithaborra/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Rushithaborra/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -330,6 +331,7 @@ Progress of my leetcode journey.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Rushithaborra/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/Rushithaborra/LeetCode/tree/main/0077-combinations/) | Medium |
 | [0089-gray-code](https://github.com/Rushithaborra/LeetCode/tree/main/0089-gray-code/) | Medium |
