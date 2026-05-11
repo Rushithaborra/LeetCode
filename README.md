@@ -35,6 +35,7 @@ Progress of my leetcode journey.
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Rushithaborra/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Rushithaborra/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rushithaborra/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Rushithaborra/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rushithaborra/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Rushithaborra/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -306,6 +307,7 @@ Progress of my leetcode journey.
 | [0067-add-binary](https://github.com/Rushithaborra/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/Rushithaborra/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rushithaborra/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rushithaborra/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Rushithaborra/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Two Pointers
