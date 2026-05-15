@@ -115,6 +115,7 @@ Progress of my leetcode journey.
 | [0290-word-pattern](https://github.com/Rushithaborra/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Rushithaborra/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0409-longest-palindrome](https://github.com/Rushithaborra/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0823-binary-trees-with-factors](https://github.com/Rushithaborra/LeetCode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Rushithaborra/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
@@ -129,6 +130,7 @@ Progress of my leetcode journey.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0409-longest-palindrome](https://github.com/Rushithaborra/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/Rushithaborra/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Rushithaborra/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -277,6 +279,7 @@ Progress of my leetcode journey.
 | [0257-binary-tree-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/Rushithaborra/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Rushithaborra/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0409-longest-palindrome](https://github.com/Rushithaborra/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Rushithaborra/LeetCode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0796-rotate-string](https://github.com/Rushithaborra/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Rushithaborra/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
