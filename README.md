@@ -19,6 +19,7 @@ Progress of my leetcode journey.
 | [0118-pascals-triangle](https://github.com/Rushithaborra/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/Rushithaborra/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0136-single-number](https://github.com/Rushithaborra/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rushithaborra/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0704-binary-search](https://github.com/Rushithaborra/LeetCode/tree/main/0704-binary-search/) | Easy |
@@ -248,6 +249,7 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rushithaborra/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rushithaborra/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/Rushithaborra/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Rushithaborra/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
