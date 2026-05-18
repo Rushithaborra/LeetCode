@@ -480,6 +480,7 @@ Progress of my leetcode journey.
 | [0595-big-countries](https://github.com/Rushithaborra/LeetCode/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Rushithaborra/LeetCode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0610-triangle-judgement](https://github.com/Rushithaborra/LeetCode/tree/main/0610-triangle-judgement/) | Easy |
+| [0626-exchange-seats](https://github.com/Rushithaborra/LeetCode/tree/main/0626-exchange-seats/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Rushithaborra/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/Rushithaborra/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Rushithaborra/LeetCode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
