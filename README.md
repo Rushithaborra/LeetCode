@@ -483,6 +483,7 @@ Progress of my leetcode journey.
 | [0626-exchange-seats](https://github.com/Rushithaborra/LeetCode/tree/main/0626-exchange-seats/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Rushithaborra/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/Rushithaborra/LeetCode/tree/main/1075-project-employees-i/) | Easy |
+| [1158-market-analysis-i](https://github.com/Rushithaborra/LeetCode/tree/main/1158-market-analysis-i/) | Medium |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Rushithaborra/LeetCode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
