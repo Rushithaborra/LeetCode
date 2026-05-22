@@ -22,6 +22,7 @@ Progress of my leetcode journey.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rushithaborra/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0179-largest-number](https://github.com/Rushithaborra/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0561-array-partition](https://github.com/Rushithaborra/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0704-binary-search](https://github.com/Rushithaborra/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0823-binary-trees-with-factors](https://github.com/Rushithaborra/LeetCode/tree/main/0823-binary-trees-with-factors/) | Medium |
@@ -73,6 +74,7 @@ Progress of my leetcode journey.
 | [0075-sort-colors](https://github.com/Rushithaborra/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0179-largest-number](https://github.com/Rushithaborra/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0561-array-partition](https://github.com/Rushithaborra/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0823-binary-trees-with-factors](https://github.com/Rushithaborra/LeetCode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0912-sort-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Rushithaborra/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
@@ -105,6 +107,7 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rushithaborra/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0561-array-partition](https://github.com/Rushithaborra/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0912-sort-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rushithaborra/LeetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Rushithaborra/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -137,6 +140,7 @@ Progress of my leetcode journey.
 | [0179-largest-number](https://github.com/Rushithaborra/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0402-remove-k-digits](https://github.com/Rushithaborra/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/Rushithaborra/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
+| [0561-array-partition](https://github.com/Rushithaborra/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/Rushithaborra/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Rushithaborra/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
