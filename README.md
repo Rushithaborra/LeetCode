@@ -37,6 +37,7 @@ Progress of my leetcode journey.
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Rushithaborra/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Rushithaborra/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Rushithaborra/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rushithaborra/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1861-rotating-the-box](https://github.com/Rushithaborra/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rushithaborra/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Rushithaborra/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
