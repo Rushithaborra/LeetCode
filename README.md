@@ -512,6 +512,7 @@ Progress of my leetcode journey.
 | [1045-customers-who-bought-all-products](https://github.com/Rushithaborra/LeetCode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Rushithaborra/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/Rushithaborra/LeetCode/tree/main/1075-project-employees-i/) | Easy |
+| [1084-sales-analysis-iii](https://github.com/Rushithaborra/LeetCode/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1158-market-analysis-i](https://github.com/Rushithaborra/LeetCode/tree/main/1158-market-analysis-i/) | Medium |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Rushithaborra/LeetCode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 ## Union-Find
