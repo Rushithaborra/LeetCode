@@ -283,6 +283,7 @@ Progress of my leetcode journey.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/Rushithaborra/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -297,6 +298,7 @@ Progress of my leetcode journey.
 | [0010-regular-expression-matching](https://github.com/Rushithaborra/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0043-multiply-strings](https://github.com/Rushithaborra/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/Rushithaborra/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0071-simplify-path](https://github.com/Rushithaborra/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/Rushithaborra/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Rushithaborra/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Rushithaborra/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
