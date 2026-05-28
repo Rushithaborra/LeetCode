@@ -9,6 +9,7 @@ Progress of my leetcode journey.
 | [0033-search-in-rotated-sorted-array](https://github.com/Rushithaborra/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Rushithaborra/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0053-maximum-subarray](https://github.com/Rushithaborra/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0057-insert-interval](https://github.com/Rushithaborra/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Rushithaborra/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -64,6 +65,7 @@ Progress of my leetcode journey.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Rushithaborra/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
@@ -380,6 +382,7 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Rushithaborra/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0053-maximum-subarray](https://github.com/Rushithaborra/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0118-pascals-triangle](https://github.com/Rushithaborra/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
