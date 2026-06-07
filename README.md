@@ -51,6 +51,7 @@ Progress of my leetcode journey.
 | [1929-concatenation-of-array](https://github.com/Rushithaborra/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Rushithaborra/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rushithaborra/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Rushithaborra/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Rushithaborra/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Rushithaborra/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
@@ -142,6 +143,7 @@ Progress of my leetcode journey.
 | [1338-reduce-array-size-to-the-half](https://github.com/Rushithaborra/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Rushithaborra/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Rushithaborra/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Rushithaborra/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2615-sum-of-distances](https://github.com/Rushithaborra/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Rushithaborra/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rushithaborra/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -200,6 +202,7 @@ Progress of my leetcode journey.
 | [0965-univalued-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rushithaborra/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Rushithaborra/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,6 +265,7 @@ Progress of my leetcode journey.
 | [0965-univalued-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rushithaborra/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Rushithaborra/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
