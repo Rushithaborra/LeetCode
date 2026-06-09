@@ -67,6 +67,7 @@ Progress of my leetcode journey.
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Rushithaborra/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Rushithaborra/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Rushithaborra/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/Rushithaborra/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rushithaborra/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -167,6 +168,7 @@ Progress of my leetcode journey.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Rushithaborra/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/Rushithaborra/LeetCode/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Rushithaborra/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3689-maximum-total-subarray-value-i](https://github.com/Rushithaborra/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
