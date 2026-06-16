@@ -340,6 +340,7 @@ Progress of my leetcode journey.
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rushithaborra/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rushithaborra/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Rushithaborra/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3612-process-string-with-special-operations-i](https://github.com/Rushithaborra/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Rushithaborra/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -382,6 +383,7 @@ Progress of my leetcode journey.
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rushithaborra/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rushithaborra/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/Rushithaborra/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Rushithaborra/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Rushithaborra/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Two Pointers
