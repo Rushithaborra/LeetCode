@@ -46,6 +46,7 @@ Progress of my leetcode journey.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Rushithaborra/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Rushithaborra/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rushithaborra/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Rushithaborra/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1861-rotating-the-box](https://github.com/Rushithaborra/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rushithaborra/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Rushithaborra/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -100,6 +101,7 @@ Progress of my leetcode journey.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Rushithaborra/LeetCode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Rushithaborra/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Rushithaborra/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rushithaborra/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Rushithaborra/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Rushithaborra/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -129,6 +131,7 @@ Progress of my leetcode journey.
 | [0561-array-partition](https://github.com/Rushithaborra/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0912-sort-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rushithaborra/LeetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Rushithaborra/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Rushithaborra/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -168,6 +171,7 @@ Progress of my leetcode journey.
 | [1382-balance-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Rushithaborra/LeetCode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Rushithaborra/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Rushithaborra/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/Rushithaborra/LeetCode/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Rushithaborra/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/Rushithaborra/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
