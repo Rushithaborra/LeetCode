@@ -326,6 +326,7 @@ Progress of my leetcode journey.
 | [0179-largest-number](https://github.com/Rushithaborra/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0273-integer-to-english-words](https://github.com/Rushithaborra/LeetCode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0290-word-pattern](https://github.com/Rushithaborra/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Rushithaborra/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Rushithaborra/LeetCode/tree/main/0392-is-subsequence/) | Easy |
@@ -357,6 +358,7 @@ Progress of my leetcode journey.
 | [0096-unique-binary-search-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0258-add-digits](https://github.com/Rushithaborra/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [0273-integer-to-english-words](https://github.com/Rushithaborra/LeetCode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0492-construct-the-rectangle](https://github.com/Rushithaborra/LeetCode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rushithaborra/LeetCode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Rushithaborra/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -515,6 +517,7 @@ Progress of my leetcode journey.
 | [0203-remove-linked-list-elements](https://github.com/Rushithaborra/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Rushithaborra/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0273-integer-to-english-words](https://github.com/Rushithaborra/LeetCode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0894-all-possible-full-binary-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 ## Shell
 | Problem Name | Difficulty |
