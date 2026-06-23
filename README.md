@@ -329,6 +329,7 @@ Progress of my leetcode journey.
 | [0241-different-ways-to-add-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0273-integer-to-english-words](https://github.com/Rushithaborra/LeetCode/tree/main/0273-integer-to-english-words/) | Hard |
+| [0282-expression-add-operators](https://github.com/Rushithaborra/LeetCode/tree/main/0282-expression-add-operators/) | Hard |
 | [0290-word-pattern](https://github.com/Rushithaborra/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Rushithaborra/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Rushithaborra/LeetCode/tree/main/0392-is-subsequence/) | Easy |
@@ -362,6 +363,7 @@ Progress of my leetcode journey.
 | [0241-different-ways-to-add-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0258-add-digits](https://github.com/Rushithaborra/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0273-integer-to-english-words](https://github.com/Rushithaborra/LeetCode/tree/main/0273-integer-to-english-words/) | Hard |
+| [0282-expression-add-operators](https://github.com/Rushithaborra/LeetCode/tree/main/0282-expression-add-operators/) | Hard |
 | [0492-construct-the-rectangle](https://github.com/Rushithaborra/LeetCode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rushithaborra/LeetCode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Rushithaborra/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -444,6 +446,7 @@ Progress of my leetcode journey.
 | [0089-gray-code](https://github.com/Rushithaborra/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Rushithaborra/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0282-expression-add-operators](https://github.com/Rushithaborra/LeetCode/tree/main/0282-expression-add-operators/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Rushithaborra/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Rushithaborra/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Binary Search Tree
