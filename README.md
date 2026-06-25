@@ -70,6 +70,7 @@ Progress of my leetcode journey.
 | [3643-flip-square-submatrix-vertically](https://github.com/Rushithaborra/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Rushithaborra/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Rushithaborra/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rushithaborra/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rushithaborra/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Rushithaborra/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Divide and Conquer
@@ -85,6 +86,7 @@ Progress of my leetcode journey.
 | [0912-sort-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Rushithaborra/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rushithaborra/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +118,7 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rushithaborra/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +137,7 @@ Progress of my leetcode journey.
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rushithaborra/LeetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Rushithaborra/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Rushithaborra/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rushithaborra/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +163,7 @@ Progress of my leetcode journey.
 | [3488-closest-equal-element-queries](https://github.com/Rushithaborra/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3493-properties-graph](https://github.com/Rushithaborra/LeetCode/tree/main/3493-properties-graph/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rushithaborra/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rushithaborra/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -485,6 +490,7 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/Rushithaborra/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rushithaborra/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -516,6 +522,7 @@ Progress of my leetcode journey.
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Rushithaborra/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Rushithaborra/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rushithaborra/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
