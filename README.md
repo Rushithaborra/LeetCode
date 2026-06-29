@@ -488,6 +488,7 @@ Progress of my leetcode journey.
 | [0138-copy-list-with-random-pointer](https://github.com/Rushithaborra/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Rushithaborra/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Rushithaborra/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0328-odd-even-linked-list](https://github.com/Rushithaborra/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rushithaborra/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
