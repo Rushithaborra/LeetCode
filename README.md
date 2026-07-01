@@ -60,6 +60,7 @@ Progress of my leetcode journey.
 | [2553-separate-the-digits-in-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Rushithaborra/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Rushithaborra/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Rushithaborra/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Rushithaborra/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rushithaborra/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rushithaborra/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -118,6 +119,7 @@ Progress of my leetcode journey.
 | [1338-reduce-array-size-to-the-half](https://github.com/Rushithaborra/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rushithaborra/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Rushithaborra/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -306,6 +308,7 @@ Progress of my leetcode journey.
 | [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rushithaborra/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Rushithaborra/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3493-properties-graph](https://github.com/Rushithaborra/LeetCode/tree/main/3493-properties-graph/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -314,6 +317,7 @@ Progress of my leetcode journey.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rushithaborra/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/Rushithaborra/LeetCode/tree/main/0704-binary-search/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Rushithaborra/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Rushithaborra/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -522,6 +526,7 @@ Progress of my leetcode journey.
 | [1861-rotating-the-box](https://github.com/Rushithaborra/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rushithaborra/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Rushithaborra/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Rushithaborra/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Rushithaborra/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rushithaborra/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Rushithaborra/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -603,6 +608,7 @@ Progress of my leetcode journey.
 | ------- | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Rushithaborra/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rushithaborra/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Rushithaborra/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3493-properties-graph](https://github.com/Rushithaborra/LeetCode/tree/main/3493-properties-graph/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
