@@ -24,6 +24,7 @@ Progress of my leetcode journey.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rushithaborra/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0179-largest-number](https://github.com/Rushithaborra/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0221-maximal-square](https://github.com/Rushithaborra/LeetCode/tree/main/0221-maximal-square/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/Rushithaborra/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Rushithaborra/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0561-array-partition](https://github.com/Rushithaborra/LeetCode/tree/main/0561-array-partition/) | Easy |
@@ -117,6 +118,7 @@ Progress of my leetcode journey.
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Rushithaborra/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0912-sort-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Rushithaborra/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -467,6 +469,7 @@ Progress of my leetcode journey.
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Rushithaborra/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rushithaborra/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rushithaborra/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Backtracking
@@ -638,9 +641,14 @@ Progress of my leetcode journey.
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Rushithaborra/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/Rushithaborra/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rushithaborra/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Rushithaborra/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
