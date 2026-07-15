@@ -407,6 +407,7 @@ Progress of my leetcode journey.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rushithaborra/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rushithaborra/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Rushithaborra/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Rushithaborra/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rushithaborra/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rushithaborra/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -582,6 +583,7 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Rushithaborra/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Rushithaborra/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
