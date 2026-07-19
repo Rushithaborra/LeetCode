@@ -188,6 +188,7 @@ Progress of my leetcode journey.
 | [0561-array-partition](https://github.com/Rushithaborra/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Rushithaborra/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Rushithaborra/LeetCode/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rushithaborra/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Rushithaborra/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Rushithaborra/LeetCode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
@@ -346,6 +347,7 @@ Progress of my leetcode journey.
 | [0402-remove-k-digits](https://github.com/Rushithaborra/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rushithaborra/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -369,6 +371,7 @@ Progress of my leetcode journey.
 | [0409-longest-palindrome](https://github.com/Rushithaborra/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Rushithaborra/LeetCode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0796-rotate-string](https://github.com/Rushithaborra/LeetCode/tree/main/0796-rotate-string/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rushithaborra/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Rushithaborra/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rushithaborra/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Rushithaborra/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -514,6 +517,7 @@ Progress of my leetcode journey.
 | [0085-maximal-rectangle](https://github.com/Rushithaborra/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0402-remove-k-digits](https://github.com/Rushithaborra/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rushithaborra/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
