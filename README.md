@@ -156,6 +156,7 @@ Progress of my leetcode journey.
 | [1833-maximum-ice-cream-bars](https://github.com/Rushithaborra/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/Rushithaborra/LeetCode/tree/main/2416-sum-of-prefix-scores-of-strings/) | Hard |
 | [2833-furthest-point-from-origin](https://github.com/Rushithaborra/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rushithaborra/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -182,6 +183,7 @@ Progress of my leetcode journey.
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rushithaborra/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Rushithaborra/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3493-properties-graph](https://github.com/Rushithaborra/LeetCode/tree/main/3493-properties-graph/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rushithaborra/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rushithaborra/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -399,6 +401,7 @@ Progress of my leetcode journey.
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rushithaborra/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Rushithaborra/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Rushithaborra/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/Rushithaborra/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -428,6 +431,7 @@ Progress of my leetcode journey.
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rushithaborra/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rushithaborra/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Rushithaborra/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rushithaborra/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rushithaborra/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -706,4 +710,8 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Rushithaborra/LeetCode/tree/main/0292-nim-game/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 <!---LeetCode Topics End-->
