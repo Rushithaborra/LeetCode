@@ -25,6 +25,7 @@ Progress of my leetcode journey.
 | [0179-largest-number](https://github.com/Rushithaborra/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0221-maximal-square](https://github.com/Rushithaborra/LeetCode/tree/main/0221-maximal-square/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Rushithaborra/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0313-super-ugly-number](https://github.com/Rushithaborra/LeetCode/tree/main/0313-super-ugly-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Rushithaborra/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0561-array-partition](https://github.com/Rushithaborra/LeetCode/tree/main/0561-array-partition/) | Easy |
@@ -421,6 +422,7 @@ Progress of my leetcode journey.
 | [0279-perfect-squares](https://github.com/Rushithaborra/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0282-expression-add-operators](https://github.com/Rushithaborra/LeetCode/tree/main/0282-expression-add-operators/) | Hard |
 | [0292-nim-game](https://github.com/Rushithaborra/LeetCode/tree/main/0292-nim-game/) | Easy |
+| [0313-super-ugly-number](https://github.com/Rushithaborra/LeetCode/tree/main/0313-super-ugly-number/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/Rushithaborra/LeetCode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rushithaborra/LeetCode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Rushithaborra/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -501,6 +503,7 @@ Progress of my leetcode journey.
 | [0221-maximal-square](https://github.com/Rushithaborra/LeetCode/tree/main/0221-maximal-square/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0279-perfect-squares](https://github.com/Rushithaborra/LeetCode/tree/main/0279-perfect-squares/) | Medium |
+| [0313-super-ugly-number](https://github.com/Rushithaborra/LeetCode/tree/main/0313-super-ugly-number/) | Medium |
 | [0392-is-subsequence](https://github.com/Rushithaborra/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0823-binary-trees-with-factors](https://github.com/Rushithaborra/LeetCode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
