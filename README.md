@@ -28,6 +28,7 @@ Progress of my leetcode journey.
 | [0313-super-ugly-number](https://github.com/Rushithaborra/LeetCode/tree/main/0313-super-ugly-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Rushithaborra/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0486-predict-the-winner](https://github.com/Rushithaborra/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0561-array-partition](https://github.com/Rushithaborra/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0704-binary-search](https://github.com/Rushithaborra/LeetCode/tree/main/0704-binary-search/) | Easy |
@@ -428,6 +429,7 @@ Progress of my leetcode journey.
 | [0282-expression-add-operators](https://github.com/Rushithaborra/LeetCode/tree/main/0282-expression-add-operators/) | Hard |
 | [0292-nim-game](https://github.com/Rushithaborra/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0313-super-ugly-number](https://github.com/Rushithaborra/LeetCode/tree/main/0313-super-ugly-number/) | Medium |
+| [0486-predict-the-winner](https://github.com/Rushithaborra/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/Rushithaborra/LeetCode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rushithaborra/LeetCode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Rushithaborra/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -510,6 +512,7 @@ Progress of my leetcode journey.
 | [0279-perfect-squares](https://github.com/Rushithaborra/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0313-super-ugly-number](https://github.com/Rushithaborra/LeetCode/tree/main/0313-super-ugly-number/) | Medium |
 | [0392-is-subsequence](https://github.com/Rushithaborra/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0486-predict-the-winner](https://github.com/Rushithaborra/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/Rushithaborra/LeetCode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Rushithaborra/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -619,6 +622,7 @@ Progress of my leetcode journey.
 | [0206-reverse-linked-list](https://github.com/Rushithaborra/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0273-integer-to-english-words](https://github.com/Rushithaborra/LeetCode/tree/main/0273-integer-to-english-words/) | Hard |
+| [0486-predict-the-winner](https://github.com/Rushithaborra/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 ## Shell
 | Problem Name | Difficulty |
@@ -721,6 +725,7 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Rushithaborra/LeetCode/tree/main/0292-nim-game/) | Easy |
+| [0486-predict-the-winner](https://github.com/Rushithaborra/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
