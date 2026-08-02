@@ -34,6 +34,7 @@ Progress of my leetcode journey.
 | [0704-binary-search](https://github.com/Rushithaborra/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Rushithaborra/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0823-binary-trees-with-factors](https://github.com/Rushithaborra/LeetCode/tree/main/0823-binary-trees-with-factors/) | Medium |
+| [0877-stone-game](https://github.com/Rushithaborra/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0912-sort-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Rushithaborra/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -432,6 +433,7 @@ Progress of my leetcode journey.
 | [0486-predict-the-winner](https://github.com/Rushithaborra/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/Rushithaborra/LeetCode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rushithaborra/LeetCode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [0877-stone-game](https://github.com/Rushithaborra/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Rushithaborra/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Rushithaborra/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1622-fancy-sequence](https://github.com/Rushithaborra/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
@@ -514,6 +516,7 @@ Progress of my leetcode journey.
 | [0392-is-subsequence](https://github.com/Rushithaborra/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0486-predict-the-winner](https://github.com/Rushithaborra/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/Rushithaborra/LeetCode/tree/main/0823-binary-trees-with-factors/) | Medium |
+| [0877-stone-game](https://github.com/Rushithaborra/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Rushithaborra/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rushithaborra/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -726,6 +729,7 @@ Progress of my leetcode journey.
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Rushithaborra/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0486-predict-the-winner](https://github.com/Rushithaborra/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Rushithaborra/LeetCode/tree/main/0877-stone-game/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
