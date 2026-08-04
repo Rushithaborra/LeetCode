@@ -118,6 +118,7 @@ Progress of my leetcode journey.
 | [0912-sort-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Rushithaborra/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Rushithaborra/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Rushithaborra/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Rushithaborra/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rushithaborra/LeetCode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -255,6 +256,7 @@ Progress of my leetcode journey.
 | [0897-increasing-order-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rushithaborra/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Rushithaborra/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Rushithaborra/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Rushithaborra/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -283,6 +285,7 @@ Progress of my leetcode journey.
 | [0897-increasing-order-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rushithaborra/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Rushithaborra/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Rushithaborra/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rushithaborra/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -326,6 +329,7 @@ Progress of my leetcode journey.
 | [0897-increasing-order-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rushithaborra/LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Rushithaborra/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Rushithaborra/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Breadth-First Search
@@ -557,6 +561,7 @@ Progress of my leetcode journey.
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Rushithaborra/LeetCode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
