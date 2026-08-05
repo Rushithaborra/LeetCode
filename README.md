@@ -291,6 +291,7 @@ Progress of my leetcode journey.
 | [1971-find-if-path-exists-in-graph](https://github.com/Rushithaborra/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rushithaborra/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Rushithaborra/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Rushithaborra/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3493-properties-graph](https://github.com/Rushithaborra/LeetCode/tree/main/3493-properties-graph/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Rushithaborra/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
@@ -353,6 +354,7 @@ Progress of my leetcode journey.
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rushithaborra/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Rushithaborra/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rushithaborra/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Rushithaborra/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3493-properties-graph](https://github.com/Rushithaborra/LeetCode/tree/main/3493-properties-graph/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -708,6 +710,7 @@ Progress of my leetcode journey.
 | [1971-find-if-path-exists-in-graph](https://github.com/Rushithaborra/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rushithaborra/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Rushithaborra/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Rushithaborra/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3493-properties-graph](https://github.com/Rushithaborra/LeetCode/tree/main/3493-properties-graph/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Rushithaborra/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## String Matching
