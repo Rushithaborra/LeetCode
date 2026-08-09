@@ -39,6 +39,7 @@ Progress of my leetcode journey.
 | [0912-sort-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Rushithaborra/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Rushithaborra/LeetCode/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
+| [1140-stone-game-ii](https://github.com/Rushithaborra/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Rushithaborra/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Rushithaborra/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Rushithaborra/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
@@ -452,6 +453,7 @@ Progress of my leetcode journey.
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rushithaborra/LeetCode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0877-stone-game](https://github.com/Rushithaborra/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Rushithaborra/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1140-stone-game-ii](https://github.com/Rushithaborra/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Rushithaborra/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/Rushithaborra/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1622-fancy-sequence](https://github.com/Rushithaborra/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
@@ -538,6 +540,7 @@ Progress of my leetcode journey.
 | [0823-binary-trees-with-factors](https://github.com/Rushithaborra/LeetCode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0877-stone-game](https://github.com/Rushithaborra/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
+| [1140-stone-game-ii](https://github.com/Rushithaborra/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Rushithaborra/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Rushithaborra/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rushithaborra/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -631,6 +634,7 @@ Progress of my leetcode journey.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Rushithaborra/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Rushithaborra/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Rushithaborra/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rushithaborra/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -757,9 +761,18 @@ Progress of my leetcode journey.
 | [0292-nim-game](https://github.com/Rushithaborra/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0486-predict-the-winner](https://github.com/Rushithaborra/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Rushithaborra/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Rushithaborra/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Rushithaborra/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Rushithaborra/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Rushithaborra/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
