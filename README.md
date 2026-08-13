@@ -32,6 +32,7 @@ Progress of my leetcode journey.
 | [0561-array-partition](https://github.com/Rushithaborra/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0704-binary-search](https://github.com/Rushithaborra/LeetCode/tree/main/0704-binary-search/) | Easy |
+| [0720-longest-word-in-dictionary](https://github.com/Rushithaborra/LeetCode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Rushithaborra/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0823-binary-trees-with-factors](https://github.com/Rushithaborra/LeetCode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0877-stone-game](https://github.com/Rushithaborra/LeetCode/tree/main/0877-stone-game/) | Medium |
@@ -114,6 +115,7 @@ Progress of my leetcode journey.
 | [0179-largest-number](https://github.com/Rushithaborra/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0561-array-partition](https://github.com/Rushithaborra/LeetCode/tree/main/0561-array-partition/) | Easy |
+| [0720-longest-word-in-dictionary](https://github.com/Rushithaborra/LeetCode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Rushithaborra/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0823-binary-trees-with-factors](https://github.com/Rushithaborra/LeetCode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0912-sort-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/0912-sort-an-array/) | Medium |
@@ -180,6 +182,7 @@ Progress of my leetcode journey.
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Rushithaborra/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/Rushithaborra/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
+| [0720-longest-word-in-dictionary](https://github.com/Rushithaborra/LeetCode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/Rushithaborra/LeetCode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Rushithaborra/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -407,6 +410,7 @@ Progress of my leetcode journey.
 | [0402-remove-k-digits](https://github.com/Rushithaborra/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/Rushithaborra/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0696-count-binary-substrings](https://github.com/Rushithaborra/LeetCode/tree/main/0696-count-binary-substrings/) | Easy |
+| [0720-longest-word-in-dictionary](https://github.com/Rushithaborra/LeetCode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0796-rotate-string](https://github.com/Rushithaborra/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rushithaborra/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Rushithaborra/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -745,6 +749,7 @@ Progress of my leetcode journey.
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0720-longest-word-in-dictionary](https://github.com/Rushithaborra/LeetCode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/Rushithaborra/LeetCode/tree/main/2416-sum-of-prefix-scores-of-strings/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rushithaborra/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Monotonic Queue
