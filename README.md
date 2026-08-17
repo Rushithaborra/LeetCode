@@ -449,6 +449,7 @@ Progress of my leetcode journey.
 | [0067-add-binary](https://github.com/Rushithaborra/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0089-gray-code](https://github.com/Rushithaborra/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0223-rectangle-area](https://github.com/Rushithaborra/LeetCode/tree/main/0223-rectangle-area/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0258-add-digits](https://github.com/Rushithaborra/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0273-integer-to-english-words](https://github.com/Rushithaborra/LeetCode/tree/main/0273-integer-to-english-words/) | Hard |
@@ -793,4 +794,8 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/Rushithaborra/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0223-rectangle-area](https://github.com/Rushithaborra/LeetCode/tree/main/0223-rectangle-area/) | Medium |
 <!---LeetCode Topics End-->
