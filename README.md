@@ -27,6 +27,7 @@ Progress of my leetcode journey.
 | [0239-sliding-window-maximum](https://github.com/Rushithaborra/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0313-super-ugly-number](https://github.com/Rushithaborra/LeetCode/tree/main/0313-super-ugly-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0414-third-maximum-number](https://github.com/Rushithaborra/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Rushithaborra/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Rushithaborra/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0561-array-partition](https://github.com/Rushithaborra/LeetCode/tree/main/0561-array-partition/) | Easy |
@@ -117,6 +118,7 @@ Progress of my leetcode journey.
 | [0075-sort-colors](https://github.com/Rushithaborra/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0179-largest-number](https://github.com/Rushithaborra/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0414-third-maximum-number](https://github.com/Rushithaborra/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/Rushithaborra/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/Rushithaborra/LeetCode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Rushithaborra/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
