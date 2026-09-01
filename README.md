@@ -94,6 +94,7 @@ Progress of my leetcode journey.
 | [3546-equal-sum-grid-partition-i](https://github.com/Rushithaborra/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Rushithaborra/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rushithaborra/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Rushithaborra/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Rushithaborra/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Rushithaborra/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -214,6 +215,7 @@ Progress of my leetcode journey.
 | [3493-properties-graph](https://github.com/Rushithaborra/LeetCode/tree/main/3493-properties-graph/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rushithaborra/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rushithaborra/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Rushithaborra/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rushithaborra/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -382,6 +384,7 @@ Progress of my leetcode journey.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rushithaborra/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Rushithaborra/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3493-properties-graph](https://github.com/Rushithaborra/LeetCode/tree/main/3493-properties-graph/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rushithaborra/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -520,6 +523,7 @@ Progress of my leetcode journey.
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Rushithaborra/LeetCode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rushithaborra/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rushithaborra/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rushithaborra/LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -675,6 +679,7 @@ Progress of my leetcode journey.
 | [3546-equal-sum-grid-partition-i](https://github.com/Rushithaborra/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Rushithaborra/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rushithaborra/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Rushithaborra/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Rushithaborra/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Prefix Sum
