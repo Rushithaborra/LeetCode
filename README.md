@@ -109,6 +109,7 @@ Progress of my leetcode journey.
 | [3876-construct-uniform-parity-array-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Rushithaborra/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Rushithaborra/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -703,6 +704,7 @@ Progress of my leetcode journey.
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rushithaborra/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Rushithaborra/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
