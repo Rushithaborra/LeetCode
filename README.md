@@ -36,6 +36,7 @@ Progress of my leetcode journey.
 | [0485-max-consecutive-ones](https://github.com/Rushithaborra/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Rushithaborra/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0494-target-sum/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0561-array-partition](https://github.com/Rushithaborra/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0704-binary-search](https://github.com/Rushithaborra/LeetCode/tree/main/0704-binary-search/) | Easy |
@@ -203,6 +204,7 @@ Progress of my leetcode journey.
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Rushithaborra/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/Rushithaborra/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0720-longest-word-in-dictionary](https://github.com/Rushithaborra/LeetCode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/Rushithaborra/LeetCode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
@@ -495,6 +497,7 @@ Progress of my leetcode journey.
 | [0390-elimination-game](https://github.com/Rushithaborra/LeetCode/tree/main/0390-elimination-game/) | Medium |
 | [0486-predict-the-winner](https://github.com/Rushithaborra/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/Rushithaborra/LeetCode/tree/main/0492-construct-the-rectangle/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rushithaborra/LeetCode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0877-stone-game](https://github.com/Rushithaborra/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Rushithaborra/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -701,6 +704,7 @@ Progress of my leetcode journey.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1140-stone-game-ii](https://github.com/Rushithaborra/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Rushithaborra/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Rushithaborra/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -876,4 +880,8 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Rushithaborra/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
