@@ -65,6 +65,7 @@ Progress of my leetcode journey.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Rushithaborra/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Rushithaborra/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rushithaborra/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rushithaborra/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Rushithaborra/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rushithaborra/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1861-rotating-the-box](https://github.com/Rushithaborra/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
@@ -453,6 +454,7 @@ Progress of my leetcode journey.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rushithaborra/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Rushithaborra/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rushithaborra/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rushithaborra/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rushithaborra/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rushithaborra/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Rushithaborra/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -708,6 +710,7 @@ Progress of my leetcode journey.
 | [1140-stone-game-ii](https://github.com/Rushithaborra/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Rushithaborra/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Rushithaborra/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rushithaborra/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rushithaborra/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Rushithaborra/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Rushithaborra/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
