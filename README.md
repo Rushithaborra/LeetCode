@@ -43,6 +43,7 @@ Progress of my leetcode journey.
 | [0720-longest-word-in-dictionary](https://github.com/Rushithaborra/LeetCode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Rushithaborra/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0823-binary-trees-with-factors](https://github.com/Rushithaborra/LeetCode/tree/main/0823-binary-trees-with-factors/) | Medium |
+| [0835-image-overlap](https://github.com/Rushithaborra/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/Rushithaborra/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0912-sort-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/0912-sort-an-array/) | Medium |
@@ -686,6 +687,7 @@ Progress of my leetcode journey.
 | [0073-set-matrix-zeroes](https://github.com/Rushithaborra/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Rushithaborra/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0221-maximal-square](https://github.com/Rushithaborra/LeetCode/tree/main/0221-maximal-square/) | Medium |
+| [0835-image-overlap](https://github.com/Rushithaborra/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Rushithaborra/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rushithaborra/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Rushithaborra/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
