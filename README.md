@@ -417,6 +417,7 @@ Progress of my leetcode journey.
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Rushithaborra/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Rushithaborra/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/Rushithaborra/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Rushithaborra/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Rushithaborra/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -672,6 +673,7 @@ Progress of my leetcode journey.
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Rushithaborra/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Rushithaborra/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/Rushithaborra/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Rushithaborra/LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1622-fancy-sequence](https://github.com/Rushithaborra/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 ## Segment Tree
@@ -823,6 +825,7 @@ Progress of my leetcode journey.
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Rushithaborra/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Rushithaborra/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/Rushithaborra/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Trie
