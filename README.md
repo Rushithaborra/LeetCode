@@ -801,6 +801,7 @@ Progress of my leetcode journey.
 | [1084-sales-analysis-iii](https://github.com/Rushithaborra/LeetCode/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Rushithaborra/LeetCode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1158-market-analysis-i](https://github.com/Rushithaborra/LeetCode/tree/main/1158-market-analysis-i/) | Medium |
+| [1341-movie-rating](https://github.com/Rushithaborra/LeetCode/tree/main/1341-movie-rating/) | Medium |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Rushithaborra/LeetCode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
