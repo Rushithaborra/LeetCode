@@ -415,6 +415,7 @@ Progress of my leetcode journey.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/Rushithaborra/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Rushithaborra/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
@@ -433,6 +434,7 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Rushithaborra/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0032-longest-valid-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0043-multiply-strings](https://github.com/Rushithaborra/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/Rushithaborra/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/Rushithaborra/LeetCode/tree/main/0071-simplify-path/) | Medium |
@@ -594,6 +596,7 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Rushithaborra/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0032-longest-valid-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/Rushithaborra/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
@@ -906,4 +909,8 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
