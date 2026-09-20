@@ -27,6 +27,7 @@ Progress of my leetcode journey.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rushithaborra/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0179-largest-number](https://github.com/Rushithaborra/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0221-maximal-square](https://github.com/Rushithaborra/LeetCode/tree/main/0221-maximal-square/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Rushithaborra/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Rushithaborra/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0313-super-ugly-number](https://github.com/Rushithaborra/LeetCode/tree/main/0313-super-ugly-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -720,6 +721,7 @@ Progress of my leetcode journey.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Rushithaborra/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1140-stone-game-ii](https://github.com/Rushithaborra/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Rushithaborra/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
