@@ -437,6 +437,7 @@ Progress of my leetcode journey.
 | [0897-increasing-order-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rushithaborra/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Rushithaborra/LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -470,6 +471,7 @@ Progress of my leetcode journey.
 | [1189-maximum-number-of-balloons](https://github.com/Rushithaborra/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rushithaborra/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Rushithaborra/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rushithaborra/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rushithaborra/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rushithaborra/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -929,4 +931,5 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
