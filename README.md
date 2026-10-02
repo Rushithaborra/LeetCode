@@ -33,6 +33,7 @@ Progress of my leetcode journey.
 | [0239-sliding-window-maximum](https://github.com/Rushithaborra/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0284-peeking-iterator](https://github.com/Rushithaborra/LeetCode/tree/main/0284-peeking-iterator/) | Medium |
 | [0313-super-ugly-number](https://github.com/Rushithaborra/LeetCode/tree/main/0313-super-ugly-number/) | Medium |
+| [0322-coin-change](https://github.com/Rushithaborra/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Rushithaborra/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0414-third-maximum-number](https://github.com/Rushithaborra/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
@@ -402,6 +403,7 @@ Progress of my leetcode journey.
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rushithaborra/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/Rushithaborra/LeetCode/tree/main/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/Rushithaborra/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Rushithaborra/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0655-print-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0655-print-binary-tree/) | Medium |
@@ -633,6 +635,7 @@ Progress of my leetcode journey.
 | [0241-different-ways-to-add-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0279-perfect-squares](https://github.com/Rushithaborra/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0313-super-ugly-number](https://github.com/Rushithaborra/LeetCode/tree/main/0313-super-ugly-number/) | Medium |
+| [0322-coin-change](https://github.com/Rushithaborra/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0343-integer-break](https://github.com/Rushithaborra/LeetCode/tree/main/0343-integer-break/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Rushithaborra/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0392-is-subsequence](https://github.com/Rushithaborra/LeetCode/tree/main/0392-is-subsequence/) | Easy |
@@ -931,6 +934,7 @@ Progress of my leetcode journey.
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/Rushithaborra/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0494-target-sum/) | Medium |
 ## 0-1 Knapsack
@@ -954,4 +958,8 @@ Progress of my leetcode journey.
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rushithaborra/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rushithaborra/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Rushithaborra/LeetCode/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
