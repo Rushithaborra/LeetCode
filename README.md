@@ -31,6 +31,7 @@ Progress of my leetcode journey.
 | [0221-maximal-square](https://github.com/Rushithaborra/LeetCode/tree/main/0221-maximal-square/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Rushithaborra/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Rushithaborra/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0284-peeking-iterator](https://github.com/Rushithaborra/LeetCode/tree/main/0284-peeking-iterator/) | Medium |
 | [0313-super-ugly-number](https://github.com/Rushithaborra/LeetCode/tree/main/0313-super-ugly-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Rushithaborra/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -715,6 +716,7 @@ Progress of my leetcode journey.
 | [0173-binary-search-tree-iterator](https://github.com/Rushithaborra/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Rushithaborra/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0284-peeking-iterator](https://github.com/Rushithaborra/LeetCode/tree/main/0284-peeking-iterator/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Rushithaborra/LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1622-fancy-sequence](https://github.com/Rushithaborra/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 ## Segment Tree
@@ -811,6 +813,7 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Rushithaborra/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0284-peeking-iterator](https://github.com/Rushithaborra/LeetCode/tree/main/0284-peeking-iterator/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
