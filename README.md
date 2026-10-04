@@ -254,6 +254,7 @@ Progress of my leetcode journey.
 | [0402-remove-k-digits](https://github.com/Rushithaborra/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/Rushithaborra/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0561-array-partition](https://github.com/Rushithaborra/LeetCode/tree/main/0561-array-partition/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Rushithaborra/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Rushithaborra/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Rushithaborra/LeetCode/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rushithaborra/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -441,6 +442,7 @@ Progress of my leetcode journey.
 | [0316-remove-duplicate-letters](https://github.com/Rushithaborra/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Rushithaborra/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Rushithaborra/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rushithaborra/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rushithaborra/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -473,6 +475,7 @@ Progress of my leetcode journey.
 | [0409-longest-palindrome](https://github.com/Rushithaborra/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Rushithaborra/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Rushithaborra/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Rushithaborra/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0696-count-binary-substrings](https://github.com/Rushithaborra/LeetCode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/Rushithaborra/LeetCode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0796-rotate-string](https://github.com/Rushithaborra/LeetCode/tree/main/0796-rotate-string/) | Easy |
@@ -644,6 +647,7 @@ Progress of my leetcode journey.
 | [0494-target-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Rushithaborra/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Rushithaborra/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Rushithaborra/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/Rushithaborra/LeetCode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0877-stone-game](https://github.com/Rushithaborra/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
@@ -955,6 +959,7 @@ Progress of my leetcode journey.
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Rushithaborra/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rushithaborra/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rushithaborra/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
