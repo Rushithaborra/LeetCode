@@ -1,0 +1,17 @@
+class Solution(object):
+    def countNumbersWithUniqueDigits(self, n):
+        if n == 0:
+            return 1
+
+        n = min(n, 10)
+
+        ans = 10
+        unique = 9
+        available = 9
+
+        for i in range(2, n + 1):
+            unique *= available
+            ans += unique
+            available -= 1
+
+        return ans
