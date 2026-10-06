@@ -255,6 +255,7 @@ Progress of my leetcode journey.
 | [0409-longest-palindrome](https://github.com/Rushithaborra/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0561-array-partition](https://github.com/Rushithaborra/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Rushithaborra/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rushithaborra/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Rushithaborra/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Rushithaborra/LeetCode/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rushithaborra/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -445,6 +446,7 @@ Progress of my leetcode journey.
 | [0678-valid-parenthesis-string](https://github.com/Rushithaborra/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rushithaborra/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rushithaborra/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rushithaborra/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Rushithaborra/LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
@@ -481,6 +483,7 @@ Progress of my leetcode journey.
 | [0720-longest-word-in-dictionary](https://github.com/Rushithaborra/LeetCode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0796-rotate-string](https://github.com/Rushithaborra/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rushithaborra/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rushithaborra/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rushithaborra/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Rushithaborra/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -966,6 +969,7 @@ Progress of my leetcode journey.
 | [0032-longest-valid-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Rushithaborra/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rushithaborra/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rushithaborra/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rushithaborra/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
