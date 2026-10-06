@@ -36,6 +36,7 @@ Progress of my leetcode journey.
 | [0322-coin-change](https://github.com/Rushithaborra/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Rushithaborra/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0413-arithmetic-slices](https://github.com/Rushithaborra/LeetCode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0414-third-maximum-number](https://github.com/Rushithaborra/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Rushithaborra/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -649,6 +650,7 @@ Progress of my leetcode journey.
 | [0357-count-numbers-with-unique-digits](https://github.com/Rushithaborra/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Rushithaborra/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0392-is-subsequence](https://github.com/Rushithaborra/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0413-arithmetic-slices](https://github.com/Rushithaborra/LeetCode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/Rushithaborra/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0494-target-sum/) | Medium |
@@ -671,6 +673,7 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rushithaborra/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0413-arithmetic-slices](https://github.com/Rushithaborra/LeetCode/tree/main/0413-arithmetic-slices/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rushithaborra/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rushithaborra/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rushithaborra/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
