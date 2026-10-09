@@ -254,6 +254,7 @@ Progress of my leetcode journey.
 | ------- | ------- |
 | [0179-largest-number](https://github.com/Rushithaborra/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Rushithaborra/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0397-integer-replacement](https://github.com/Rushithaborra/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0402-remove-k-digits](https://github.com/Rushithaborra/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/Rushithaborra/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0561-array-partition](https://github.com/Rushithaborra/LeetCode/tree/main/0561-array-partition/) | Easy |
@@ -588,6 +589,7 @@ Progress of my leetcode journey.
 | [0136-single-number](https://github.com/Rushithaborra/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Rushithaborra/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Rushithaborra/LeetCode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+| [0397-integer-replacement](https://github.com/Rushithaborra/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rushithaborra/LeetCode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0868-binary-gap](https://github.com/Rushithaborra/LeetCode/tree/main/0868-binary-gap/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Rushithaborra/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
@@ -658,6 +660,7 @@ Progress of my leetcode journey.
 | [0357-count-numbers-with-unique-digits](https://github.com/Rushithaborra/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Rushithaborra/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0392-is-subsequence](https://github.com/Rushithaborra/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0397-integer-replacement](https://github.com/Rushithaborra/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Rushithaborra/LeetCode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/Rushithaborra/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
@@ -902,6 +905,7 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0397-integer-replacement](https://github.com/Rushithaborra/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/Rushithaborra/LeetCode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
