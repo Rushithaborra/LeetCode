@@ -265,6 +265,7 @@ Progress of my leetcode journey.
 | [1338-reduce-array-size-to-the-half](https://github.com/Rushithaborra/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Rushithaborra/LeetCode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rushithaborra/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Rushithaborra/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Rushithaborra/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rushithaborra/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -454,6 +455,7 @@ Progress of my leetcode journey.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rushithaborra/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rushithaborra/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Rushithaborra/LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rushithaborra/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -494,6 +496,7 @@ Progress of my leetcode journey.
 | [1189-maximum-number-of-balloons](https://github.com/Rushithaborra/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rushithaborra/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Rushithaborra/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rushithaborra/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rushithaborra/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rushithaborra/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -981,6 +984,7 @@ Progress of my leetcode journey.
 | [0856-score-of-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rushithaborra/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rushithaborra/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rushithaborra/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rushithaborra/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rushithaborra/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Complete Knapsack
