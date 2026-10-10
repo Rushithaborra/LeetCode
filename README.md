@@ -90,6 +90,7 @@ Progress of my leetcode journey.
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rushithaborra/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Rushithaborra/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rushithaborra/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rushithaborra/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/Rushithaborra/LeetCode/tree/main/2416-sum-of-prefix-scores-of-strings/) | Hard |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Rushithaborra/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -165,6 +166,7 @@ Progress of my leetcode journey.
 | [1833-maximum-ice-cream-bars](https://github.com/Rushithaborra/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rushithaborra/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rushithaborra/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rushithaborra/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Rushithaborra/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Rushithaborra/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -178,6 +180,7 @@ Progress of my leetcode journey.
 | [1338-reduce-array-size-to-the-half](https://github.com/Rushithaborra/LeetCode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rushithaborra/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rushithaborra/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rushithaborra/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rushithaborra/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -272,6 +275,7 @@ Progress of my leetcode journey.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rushithaborra/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2029-stone-game-ix](https://github.com/Rushithaborra/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rushithaborra/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rushithaborra/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/Rushithaborra/LeetCode/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rushithaborra/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -432,6 +436,7 @@ Progress of my leetcode journey.
 | [0704-binary-search](https://github.com/Rushithaborra/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rushithaborra/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rushithaborra/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rushithaborra/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rushithaborra/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Rushithaborra/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Stack
