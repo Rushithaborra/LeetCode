@@ -283,6 +283,7 @@ Progress of my leetcode journey.
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rushithaborra/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Rushithaborra/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/Rushithaborra/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Rushithaborra/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -579,6 +580,7 @@ Progress of my leetcode journey.
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Rushithaborra/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rushithaborra/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rushithaborra/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Rushithaborra/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rushithaborra/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rushithaborra/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
