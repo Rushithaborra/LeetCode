@@ -37,6 +37,7 @@ Progress of my leetcode journey.
 | [0322-coin-change](https://github.com/Rushithaborra/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Rushithaborra/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0396-rotate-function](https://github.com/Rushithaborra/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Rushithaborra/LeetCode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0414-third-maximum-number](https://github.com/Rushithaborra/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -555,6 +556,7 @@ Progress of my leetcode journey.
 | [0357-count-numbers-with-unique-digits](https://github.com/Rushithaborra/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Rushithaborra/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0390-elimination-game](https://github.com/Rushithaborra/LeetCode/tree/main/0390-elimination-game/) | Medium |
+| [0396-rotate-function](https://github.com/Rushithaborra/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Rushithaborra/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/Rushithaborra/LeetCode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -670,6 +672,7 @@ Progress of my leetcode journey.
 | [0357-count-numbers-with-unique-digits](https://github.com/Rushithaborra/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Rushithaborra/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0392-is-subsequence](https://github.com/Rushithaborra/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0396-rotate-function](https://github.com/Rushithaborra/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0397-integer-replacement](https://github.com/Rushithaborra/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Rushithaborra/LeetCode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
