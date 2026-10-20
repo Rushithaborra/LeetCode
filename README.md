@@ -308,6 +308,7 @@ Progress of my leetcode journey.
 | [0110-balanced-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Rushithaborra/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rushithaborra/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -344,6 +345,7 @@ Progress of my leetcode journey.
 | [0110-balanced-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Rushithaborra/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rushithaborra/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -386,6 +388,7 @@ Progress of my leetcode journey.
 | [0110-balanced-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Rushithaborra/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Rushithaborra/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rushithaborra/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -456,6 +459,7 @@ Progress of my leetcode journey.
 | [0071-simplify-path](https://github.com/Rushithaborra/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Rushithaborra/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Rushithaborra/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Rushithaborra/LeetCode/tree/main/0155-min-stack/) | Medium |
@@ -759,6 +763,7 @@ Progress of my leetcode journey.
 | [0061-rotate-list](https://github.com/Rushithaborra/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/Rushithaborra/LeetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Rushithaborra/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rushithaborra/LeetCode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Rushithaborra/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Rushithaborra/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
