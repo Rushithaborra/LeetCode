@@ -545,6 +545,7 @@ Progress of my leetcode journey.
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rushithaborra/LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Rushithaborra/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Rushithaborra/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Rushithaborra/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
