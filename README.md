@@ -315,6 +315,7 @@ Progress of my leetcode journey.
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/Rushithaborra/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Rushithaborra/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -351,6 +352,7 @@ Progress of my leetcode journey.
 | [0144-binary-tree-preorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Rushithaborra/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -395,6 +397,7 @@ Progress of my leetcode journey.
 | [0145-binary-tree-postorder-traversal](https://github.com/Rushithaborra/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/Rushithaborra/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Rushithaborra/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Rushithaborra/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -749,6 +752,7 @@ Progress of my leetcode journey.
 | [0099-recover-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Rushithaborra/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
@@ -1039,4 +1043,12 @@ Progress of my leetcode journey.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rushithaborra/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rushithaborra/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
