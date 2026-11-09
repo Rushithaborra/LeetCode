@@ -37,6 +37,7 @@ Progress of my leetcode journey.
 | [0322-coin-change](https://github.com/Rushithaborra/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Rushithaborra/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Rushithaborra/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/Rushithaborra/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0396-rotate-function](https://github.com/Rushithaborra/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Rushithaborra/LeetCode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0414-third-maximum-number](https://github.com/Rushithaborra/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
@@ -273,6 +274,7 @@ Progress of my leetcode journey.
 | ------- | ------- |
 | [0179-largest-number](https://github.com/Rushithaborra/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Rushithaborra/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/Rushithaborra/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0397-integer-replacement](https://github.com/Rushithaborra/LeetCode/tree/main/0397-integer-replacement/) | Medium |
 | [0402-remove-k-digits](https://github.com/Rushithaborra/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/Rushithaborra/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
@@ -710,6 +712,7 @@ Progress of my leetcode journey.
 | [0343-integer-break](https://github.com/Rushithaborra/LeetCode/tree/main/0343-integer-break/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Rushithaborra/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Rushithaborra/LeetCode/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/Rushithaborra/LeetCode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0392-is-subsequence](https://github.com/Rushithaborra/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0396-rotate-function](https://github.com/Rushithaborra/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0397-integer-replacement](https://github.com/Rushithaborra/LeetCode/tree/main/0397-integer-replacement/) | Medium |
